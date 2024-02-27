@@ -15,13 +15,13 @@ judienter:555555
 activeextra:diamond
 glitzmark:cookie
 streplon:abc123
-bottechvaci:ranger
+bottechvaci:yamaha
 boosherha:sparky
 fortuneud:654321
 thetinny:chicago
 keymialia:matrix
 akumillne:starwars
-apenguinov:yamaha
+apenguinov:ranger
 epicgnome:cheese
 nightnippos:woodhewer
 apenguinlead:trusts
