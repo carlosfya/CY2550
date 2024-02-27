@@ -21,8 +21,8 @@ fortuneud:654321
 thetinny:chicago
 keymialia:matrix
 akumillne:starwars
-apenguinov:cheese
-epicgnome:yamaha
+apenguinov:yamaha
+epicgnome:cheese
 nightnippos:woodhewer
 apenguinlead:trusts
 baseinstant:decivilize
