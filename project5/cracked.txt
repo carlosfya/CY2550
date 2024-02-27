@@ -15,9 +15,9 @@ judienter:555555
 activeextra:diamond
 glitzmark:cookie
 streplon:abc123
-bottechvaci:yamaha
-boosherha:matrix
-fortuneud:654321
+bottechvaci:654321
+boosherha:yamaha
+fortuneud:matrix
 thetinny:chicago
 keymialia:sparky
 akumillne:ranger
